@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/jayeshmali/repos/ads/practice/grpc_demo/proto_plugin/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserResponse$Address.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserServiceStub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRequest$UserRequestLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserServiceBlockingClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserResponse$Address$AddressLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserResponse$UserResponseLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserResponse$Address$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserService$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserServiceBlockingStub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserServiceBlockingStub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserServiceGrpc$UserServiceStub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/jayeshmali/repos/ads/practice/grpc_demo/proto_plugin/target/scala-2.13/classes.bak[0m
